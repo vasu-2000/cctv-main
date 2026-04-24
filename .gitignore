@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+backend/venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large ML files
+*.keras
+*.pt
+*.avi
+*.mp4
+ml-service/runs/

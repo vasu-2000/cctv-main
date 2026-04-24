@@ -28,3 +28,6 @@ Thumbs.db
 *.avi
 *.mp4
 ml-service/runs/
+
+node_modules/
+frontend/node_modules/
